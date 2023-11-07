@@ -1,9 +1,9 @@
 <div align="center">
 
 <div>
-<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Jeb_Sheep_JE2.gif/revision/latest?cb=20201221182841" />
-<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Jeb_Sheep_JE2.gif/revision/latest?cb=20201221182841" />
-<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Jeb_Sheep_JE2.gif/revision/latest?cb=20201221182841" />
+<img src="jebs_sheeps!!/jeb-sheep-95.gif" />
+<img src="jebs_sheeps!!/jeb-sheep.gif" />
+<img src="jebs_sheeps!!/jeb-sheep-105.gif" />
 </div>
   
 # whoami
