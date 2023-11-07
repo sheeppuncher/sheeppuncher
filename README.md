@@ -1,9 +1,9 @@
 <div align="center">
 
 <div>
-<img src="jebs_sheeps!!/jeb-sheep-95.gif" />
 <img src="jebs_sheeps!!/jeb-sheep.gif" />
-<img src="jebs_sheeps!!/jeb-sheep-105.gif" />
+<img src="jebs_sheeps!!/jeb-sheep-3.gif" />
+<img src="jebs_sheeps!!/jeb-sheep-6.gif" />
 </div>
   
 # whoami
