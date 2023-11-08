@@ -2,7 +2,7 @@
 
 <div>
 <img src="jebs_sheeps!!/jeb-sheep.gif" />
-<img src="jebs_sheeps!!/jeb-sheep-3.gif" />
+<img src="jebs_sheeps!!/jeb-sheep.gif" />
 <img src="jebs_sheeps!!/jeb-sheep.gif" />
 </div>
   
